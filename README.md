@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Dávid Zabák, a passionate data enthusiast with a background in Applied Informatics from STU FEI. My focus is on data science, and I have a strong interest in the financial market and stock trading. I'm particularly enthusiastic about time series analysis and uncovering valuable insights from data.
+I'm Dávid, a passionate data enthusiast with a background in Applied Informatics from STU FEI. My focus is on data science, and I have a strong interest in the financial market and stock trading. I'm particularly enthusiastic about time series analysis and uncovering valuable insights from data.
 
 ## 🔭 Current Projects
 
